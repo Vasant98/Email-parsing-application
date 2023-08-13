@@ -56,4 +56,3 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 ## Contact
 
 If you have any questions or suggestions, please feel free to contact me.
-```
